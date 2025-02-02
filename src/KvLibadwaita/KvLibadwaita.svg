@@ -5628,7 +5628,7 @@
      y="567"
      width="2"
      height="7"
-     fill="#b74aff" />
+     fill="#D3D3D3" />
   <rect
      id="tooltip-shadow-hint-right"
      transform="rotate(-90)"
@@ -5636,14 +5636,14 @@
      y="325.99991"
      width="2"
      height="7"
-     fill="#b74aff" />
+     fill="#D3D3D3" />
   <rect
      id="tooltip-shadow-hint-bottom"
      x="292.99991"
      y="636"
      width="2"
      height="7"
-     fill="#b74aff" />
+     fill="#D3D3D3" />
   <rect
      id="tooltip-shadow-hint-left"
      transform="rotate(-90)"
@@ -5651,7 +5651,7 @@
      y="256.9899"
      width="2"
      height="7"
-     fill="#b74aff" />
+     fill="#D3D3D3" />
   <g
      id="tooltip-shadow-topleft"
      transform="translate(-6.98909,4.0097095)">
@@ -5661,7 +5661,7 @@
        id="path1273" />
     <path
        id="path5519"
-       style="opacity:0.75;fill:#ffffff;fill-rule:nonzero;shape-rendering:auto;fill-opacity:0.1"
+       style="opacity:0.75;fill:#D3D3D3;fill-rule:nonzero;shape-rendering:auto;fill-opacity:0.1"
        d="M 276.98828,569.00195 A 6.989,6.989 0 0 0 270,575.99023 h 0.98828 a 6,6 0 0 1 6,-6 z" />
     <path
        d="m 270.989,575.9903 a 6,6 0 0 1 6,-6 v 6 z"

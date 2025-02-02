@@ -5544,7 +5544,7 @@
     <path
        d="m 116.26,703.75 h 6 v 48 h -6 z"
        id="path1202"
-       style="opacity:1;fill:#000000;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-normal-topleft"
@@ -5552,7 +5552,7 @@
     <path
        d="m 122.26,698.75 c -3.3229,10e-4 -5.9977,2.6768 -5.9977,6 h 6 z"
        id="path1205"
-       style="opacity:1;fill:#000000;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-normal-top"
@@ -5560,7 +5560,7 @@
     <path
        d="m 116.26,703.75 h 6 v 48 h -6 z"
        id="path1208"
-       style="opacity:1;fill:#000000;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-normal-topright"
@@ -5568,7 +5568,7 @@
     <path
        d="m 122.26,698.75 c -3.3229,10e-4 -5.9977,2.6768 -5.9977,6 h 6 z"
        id="path1211"
-       style="opacity:1;fill:#000000;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-normal-right"
@@ -5576,7 +5576,7 @@
     <path
        d="m 116.26,703.75 h 6 v 48 h -6 z"
        id="path1214"
-       style="opacity:1;fill:#000000;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-normal-bottomright"
@@ -5584,7 +5584,7 @@
     <path
        d="m 122.26,698.75 c -3.3229,10e-4 -5.9977,2.6768 -5.9977,6 h 6 z"
        id="path1217"
-       style="opacity:1;fill:#000000;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-normal-bottom"
@@ -5592,7 +5592,7 @@
     <path
        d="m 116.26,703.75 h 6 v 48 h -6 z"
        id="path1220"
-       style="opacity:1;fill:#000000;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-normal-bottomleft"
@@ -5600,7 +5600,7 @@
     <path
        d="m 122.26,698.75 c -3.3229,10e-4 -5.9977,2.6768 -5.9977,6 h 6 z"
        id="path1223"
-       style="opacity:1;fill:#000000;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-shadow-top"

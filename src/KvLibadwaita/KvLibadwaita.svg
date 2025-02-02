@@ -5,7 +5,7 @@
    version="1"
    id="svg1810"
    sodipodi:docname="KvLibadwaita.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,21 +20,28 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="true"
-     inkscape:zoom="5.5133753"
-     inkscape:cx="74.545986"
-     inkscape:cy="719.06949"
-     inkscape:window-width="1904"
-     inkscape:window-height="995"
-     inkscape:window-x="35"
-     inkscape:window-y="32"
-     inkscape:window-maximized="0"
+     inkscape:zoom="11.026751"
+     inkscape:cx="356.85942"
+     inkscape:cy="608.97358"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg1810"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid51489" />
+       id="grid51489"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs24">
@@ -5537,70 +5544,78 @@
   <path
      id="tooltip-normal"
      d="m 364.99991,582.00001 h 48 v 48 h -48 z"
-     style="fill:#D3D3D3;fill-opacity:0.80000001" />
+     style="fill:#ffffff;fill-opacity:0.80000001" />
   <g
      id="tooltip-normal-left"
-     transform="translate(242.73991,-121.74999)">
+     transform="translate(242.73991,-121.74999)"
+     style="fill:#ffffff">
     <path
        d="m 116.26,703.75 h 6 v 48 h -6 z"
        id="path1202"
-       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#ffffff;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-normal-topleft"
-     transform="translate(242.73761,-122.74999)">
+     transform="translate(242.73761,-122.74999)"
+     style="fill:#ffffff">
     <path
        d="m 122.26,698.75 c -3.3229,10e-4 -5.9977,2.6768 -5.9977,6 h 6 z"
        id="path1205"
-       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#ffffff;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-normal-top"
-     transform="rotate(90,328.50495,788.24496)">
+     transform="rotate(90,328.50495,788.24496)"
+     style="fill:#ffffff">
     <path
        d="m 116.26,703.75 h 6 v 48 h -6 z"
        id="path1208"
-       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#ffffff;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-normal-topright"
-     transform="rotate(90,329.0061,788.74381)">
+     transform="rotate(90,329.0061,788.74381)"
+     style="fill:#ffffff">
     <path
        d="m 122.26,698.75 c -3.3229,10e-4 -5.9977,2.6768 -5.9977,6 h 6 z"
        id="path1211"
-       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#ffffff;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-normal-right"
-     transform="matrix(-1,0,0,1,535.25991,-121.74999)">
+     transform="matrix(-1,0,0,1,535.25991,-121.74999)"
+     style="fill:#ffffff">
     <path
        d="m 116.26,703.75 h 6 v 48 h -6 z"
        id="path1214"
-       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#ffffff;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-normal-bottomright"
-     transform="rotate(180,267.6311,667.375)">
+     transform="rotate(180,267.6311,667.375)"
+     style="fill:#ffffff">
     <path
        d="m 122.26,698.75 c -3.3229,10e-4 -5.9977,2.6768 -5.9977,6 h 6 z"
        id="path1217"
-       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#ffffff;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-normal-bottom"
-     transform="rotate(-90,206.75496,545.50505)">
+     transform="rotate(-90,206.75496,545.50505)"
+     style="fill:#ffffff">
     <path
        d="m 116.26,703.75 h 6 v 48 h -6 z"
        id="path1220"
-       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#ffffff;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-normal-bottomleft"
-     transform="rotate(-90,206.25611,546.0062)">
+     transform="rotate(-90,206.25611,546.0062)"
+     style="fill:#ffffff">
     <path
        d="m 122.26,698.75 c -3.3229,10e-4 -5.9977,2.6768 -5.9977,6 h 6 z"
        id="path1223"
-       style="opacity:1;fill:#D3D3D3;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#ffffff;fill-opacity:0.80000001" />
   </g>
   <g
      id="tooltip-shadow-top"
@@ -5616,11 +5631,11 @@
     <path
        d="m 63.13,879.72 h 50 v 5.99991 h -50 z"
        id="path1226"
-       
+       style="opacity:1;fill:#ffffff;stroke-width:0.755923;fill-opacity:0.80000001" />
     <path
        d="m 63.13,878.72 h 50 v 1 h -50 z"
        id="path5786"
-       style="opacity:0.75;fill:#D3D3D3;stroke-width:0.755923;fill-opacity:0.1" />
+       style="opacity:0.75;fill:#ffffff;stroke-width:0.755923;fill-opacity:0.1" />
   </g>
   <rect
      id="tooltip-shadow-hint-top"
@@ -5628,7 +5643,7 @@
      y="567"
      width="2"
      height="7"
-     fill="#D3D3D3" />
+     fill="#b74aff" />
   <rect
      id="tooltip-shadow-hint-right"
      transform="rotate(-90)"
@@ -5636,14 +5651,14 @@
      y="325.99991"
      width="2"
      height="7"
-     fill="#D3D3D3" />
+     fill="#b74aff" />
   <rect
      id="tooltip-shadow-hint-bottom"
      x="292.99991"
      y="636"
      width="2"
      height="7"
-     fill="#D3D3D3" />
+     fill="#b74aff" />
   <rect
      id="tooltip-shadow-hint-left"
      transform="rotate(-90)"
@@ -5651,7 +5666,7 @@
      y="256.9899"
      width="2"
      height="7"
-     fill="#D3D3D3" />
+     fill="#b74aff" />
   <g
      id="tooltip-shadow-topleft"
      transform="translate(-6.98909,4.0097095)">
@@ -5661,12 +5676,12 @@
        id="path1273" />
     <path
        id="path5519"
-       style="opacity:0.75;fill:#D3D3D3;fill-rule:nonzero;shape-rendering:auto;fill-opacity:0.1"
+       style="opacity:0.75;fill:#ffffff;fill-rule:nonzero;shape-rendering:auto;fill-opacity:0.1"
        d="M 276.98828,569.00195 A 6.989,6.989 0 0 0 270,575.99023 h 0.98828 a 6,6 0 0 1 6,-6 z" />
     <path
        d="m 270.989,575.9903 a 6,6 0 0 1 6,-6 v 6 z"
        id="path1275"
-       style="opacity:1;fill:D3D3D3;fill-opacity:0.80000001" />
+       style="opacity:1;fill:#ffffff;fill-opacity:0.80000001" />
   </g>
   <use
      x="0"
@@ -5699,7 +5714,8 @@
      id="menu-shadow-left"
      transform="rotate(-90,59.9999,496.00006)"
      width="100%"
-     height="100%" />
+     height="100%"
+     style="display:inline" />
   <use
      x="0"
      y="0"
@@ -6625,4 +6641,20 @@
        x="24"
        y="468.74997" />
   </g>
+  <path
+     style="fill:#ffffff;stroke-width:0.0906885"
+     d="m 365.02139,606.0262 v -23.94178 h 23.98712 23.98712 v 23.94178 23.94178 h -23.98712 -23.98712 z"
+     id="path1" />
+  <path
+     style="fill:#ffffff;stroke-width:0.0906885"
+     d="m 359.03595,606.0262 v -23.94178 h 2.94738 2.94737 v 23.94178 23.94178 h -2.94737 -2.94738 z"
+     id="path2" />
+  <path
+     style="fill:#ffffff;stroke-width:0.0906885"
+     d="m 359.03595,581.76319 c 0,-0.54154 0.31062,-1.68419 0.65227,-2.39942 0.30243,-0.63312 0.50796,-0.90901 1.15029,-1.54405 1.07464,-1.06245 2.13964,-1.57327 3.66142,-1.75618 l 0.43077,-0.0518 v 2.99099 2.99099 h -2.94737 -2.94738 z"
+     id="path3" />
+  <path
+     style="fill:#ffffff;stroke-width:0.0906885"
+     d="m 365.02139,579.00101 v -2.99272 h 23.98712 23.98712 v 2.99272 2.99273 h -23.98712 -23.98712 z"
+     id="path4" />
 </svg>
